@@ -24,7 +24,7 @@ Use Tailscale, Termius, Claude Code, and laptop to continue building anywhere yo
 ## 2. Set Up Your Phone
 - Install Tailscale → Sign in with the same account<br>
   https://tailscale.com/download
-- Install Termius<br>
+- Install Termius (A Mobile Terminal Tool) <br>
   https://apps.apple.com/us/app/termius-modern-ssh-client/id549039908
 - Note your MagicDNS address of your computer (e.g., my-computer.tailnet-name.ts.net)<br>
   <img width="400" height="365" alt="image" src="https://github.com/user-attachments/assets/39e3d25a-167b-466d-8113-a9d3c6abe450" />
