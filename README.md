@@ -10,7 +10,7 @@ Use Tailscale, Termius, Claude Code, and laptop to continue building anywhere yo
 
 # Getting Started
 
-1. Set Up Your Computer
+## 1. Set Up Your Computer
 - Disable sleep in power settings<br>
   <img width="480" height="282" alt="image" src="https://github.com/user-attachments/assets/3305aaf1-046c-4505-89ba-2398d0601bf7" />
 - Enable SSH/Remote Login<br>
@@ -21,7 +21,7 @@ Use Tailscale, Termius, Claude Code, and laptop to continue building anywhere yo
 - Install Claude Code on your laptop<br>
   https://docs.anthropic.com/en/docs/claude-code/overview
 
-2. Set Up Your Phone
+## 2. Set Up Your Phone
 - Install Tailscale → Sign in with the same account<br>
   https://tailscale.com/download
 - Install Termius<br>
@@ -29,16 +29,22 @@ Use Tailscale, Termius, Claude Code, and laptop to continue building anywhere yo
 - Note your MagicDNS address of your computer (e.g., my-computer.tailnet-name.ts.net)<br>
   <img width="400" height="365" alt="image" src="https://github.com/user-attachments/assets/39e3d25a-167b-466d-8113-a9d3c6abe450" />
 - Create a new host in Termius:<br>
+  * Label: What you want your connection to be called
   * Hostname: Your MagicDNS address (my-computer.tailnet-name.ts.net)
   * Port: 22
-  * Username/Password: Your login for your computer
+  * Username/Password: Your login for your computer <br>
+  <img width="400" height="245" alt="image" src="https://github.com/user-attachments/assets/5e0f0ea1-c59c-47d9-b85d-d51b4396c93d" /> <br>
+  <img width="400" height="245" alt="image" src="https://github.com/user-attachments/assets/0f796605-57f2-4264-abf0-20369efdf895" />
 
-3. Connect and Code
+
+
+## 3. Connect and Code
 - Turn on Tailscale VPN on your phone<br>
   <img width="400" height="245" alt="image" src="https://github.com/user-attachments/assets/03646788-619b-427e-8e47-5bf8219c1c36" />
 - Tap your host in Termius<br>
   <img width="400" height="370" alt="image" src="https://github.com/user-attachments/assets/18d5a03e-acf7-4069-93c2-c67d45a25183" />
-- Run `claude` and start coding
+- Run `claude` and start coding <br>
+<img width="400" height="370" alt="image" src="https://github.com/user-attachments/assets/d92df1cd-570b-49b0-96f7-a5ce31644a6f" />
 
 # Doom Coding Best Practices
 - Track your progress: End sessions by asking Claude to update CLAUDE.md with where you left off
