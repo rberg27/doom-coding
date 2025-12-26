@@ -33,7 +33,7 @@ Use Tailscale, Termius, Claude Code, and laptop to continue building anywhere yo
   * Hostname: Your MagicDNS address (my-computer.tailnet-name.ts.net)
   * Port: 22
   * Username/Password: Your login for your computer <br>
-  <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/5e0f0ea1-c59c-47d9-b85d-d51b4396c93d" /> <br>
+  <img width="400" height="320" alt="image" src="https://github.com/user-attachments/assets/5e0f0ea1-c59c-47d9-b85d-d51b4396c93d" /> <br>
   <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/0f796605-57f2-4264-abf0-20369efdf895" />
 
 
@@ -44,7 +44,7 @@ Use Tailscale, Termius, Claude Code, and laptop to continue building anywhere yo
 - Tap your host in Termius<br>
   <img width="400" height="370" alt="image" src="https://github.com/user-attachments/assets/18d5a03e-acf7-4069-93c2-c67d45a25183" />
 - Run `claude` and start coding <br>
-<img width="400" height="370" alt="image" src="https://github.com/user-attachments/assets/d92df1cd-570b-49b0-96f7-a5ce31644a6f" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d92df1cd-570b-49b0-96f7-a5ce31644a6f" />
 
 # Doom Coding Best Practices
 - Track your progress: End sessions by asking Claude to update CLAUDE.md with where you left off
