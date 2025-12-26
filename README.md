@@ -15,7 +15,9 @@ Code on a run! <br>
 Even code at the club! <br>
 <img width="400" height="299" alt="image" src="https://github.com/user-attachments/assets/f3d05c00-a47a-4ebe-8db3-1795a6a0798c" /><br>
 
-Although too much screen time can be a bad thing, doom coding will help you make meaningful progress on the projects you care about. Shameless plug: While I was traveling in Taiwan, I accessed my computer in Philadelphia and built an MVP in my downtime. *Check out www.friendlyr.ai to help shape the future of connection!*
+Although too much screen time can be a bad thing, doom coding will help you make meaningful progress on the projects you care about. Shameless plug: While I was traveling in Taiwan, I accessed my computer in Philadelphia and built an MVP in my downtime. 
+
+*Check out www.friendlyr.ai to help shape the future of connection!*
 
 Use the "Watch" button for updates to my doom coding method. As I tryout the latest mobile coding tools (e.g. Claude Code on the Web), I'll update this repository with comparisons.
 
