@@ -48,7 +48,7 @@ https://docs.anthropic.com/en/docs/claude-code/overview
 - Install Tailscale → Sign in with the same account<br>  https://apps.apple.com/us/app/tailscale/id1470499037
 - Install Termius (A Mobile Terminal Tool) <br>
   https://apps.apple.com/us/app/termius-modern-ssh-client/id549039908
-- Note the MagicDNS address of your computer (e.g., my-computer.tailnet-name.ts.net)<br>
+- Note the MagicDNS address of your computer (e.g. my-computer.tailnet-name.ts.net)<br>
   <img width="400" height="359" alt="image" src="https://github.com/user-attachments/assets/6da3907d-ca08-48c8-9f18-54c8d644b21e" />
 
 - Create a new host in Termius:<br>
@@ -65,7 +65,7 @@ https://docs.anthropic.com/en/docs/claude-code/overview
   <img width="400" height="245" alt="image" src="https://github.com/user-attachments/assets/03646788-619b-427e-8e47-5bf8219c1c36" />
 - Select your host in Termius<br>
   <img width="400" height="370" alt="image" src="https://github.com/user-attachments/assets/18d5a03e-acf7-4069-93c2-c67d45a25183" />
-- Run `claude` and start coding <br>
+- Run `claude` and start coding! <br>
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d92df1cd-570b-49b0-96f7-a5ce31644a6f" />
 
 # Troubleshooting
@@ -90,12 +90,12 @@ Go to your desired directory and start an HTTP server<br>
 ``
 then visit http://your-machine.tailnet-name.ts.net:3005/your-html-file.html in a browser on your phone<br>
 
-*Wherever you would use localhost:PORT to view an application, replace localhost with the machines MagicDNS from the Tailscale app (e.g. your-machine.tailnet-name.ts.net)*
+*Wherever you would use localhost:PORT to view an application, replace localhost with the computer's MagicDNS from the Tailscale app (e.g. your-computer.tailnet-name.ts.net)*
 
-### View Databases:
+### View databases:
 Use the PostgreSQL app to view databases for your projects https://apps.apple.com/us/app/postgresql-client/id1233662353
 
-### Bookmark Useful Sites:
+### Bookmark useful sites:
 On your computer, bookmark the sites you refer to during development (e.g. Google OAuth, GitHub) to make it easier to reference from your phone. I use the Chrome app to seamlessly access the sites I need. 
 
 
