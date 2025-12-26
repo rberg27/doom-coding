@@ -57,8 +57,9 @@ https://docs.anthropic.com/en/docs/claude-code/overview
   * Hostname: Your MagicDNS address (my-computer.tailnet-name.ts.net)
   * Port: 22
   * Username/Password: Your login for your computer <br>
-  <img width="400" height="320" alt="image" src="https://github.com/user-attachments/assets/5e0f0ea1-c59c-47d9-b85d-d51b4396c93d" /> <br>
-  <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/0f796605-57f2-4264-abf0-20369efdf895" />
+  ![image](https://github.com/user-attachments/assets/69e2d4f0-9dad-4362-8b39-304f3ef66e6d)
+![image](https://github.com/user-attachments/assets/33105829-7dc2-4be2-934d-56793f01a03d)
+
 
 ## 3. Connect and Code
 - Turn on Tailscale VPN on your phone<br>
