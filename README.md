@@ -1,7 +1,5 @@
 # doom-coding
-If you're addicted to your phone and addicted to coding, let me introduce you to "Doom Coding".
-
-Instead of doom scrolling mindlessly on social media, you can use your smartphone, computer, and Claude Code to build on-the-go!
+A DIY approach to coding on-the-go. 
 
 After this 5-minute setup guide, you'll be able to code anywhere at any time.
 
@@ -11,11 +9,12 @@ You can code in the air!<br>
 You can code on a run! <br>
 <img width="400" height="316" alt="image" src="https://github.com/user-attachments/assets/f5449004-0a76-44ee-9922-a5cce1423f93" /> <br>
 
-
-You can code at the club! <br>
+You can even code at the club! <br>
 <img width="400" height="299" alt="image" src="https://github.com/user-attachments/assets/f3d05c00-a47a-4ebe-8db3-1795a6a0798c" /><br>
 
-Anywhere you have Internet connection, you'll be able to make progress on the projects you care about. I am based in Philadelphia and was able to build an MVP from my phone while traveling in Taiwan (check out www.friendlyr.ai to help shape the future of connection!)
+Anywhere you have Internet connection, you'll be able to make progress on the projects you care about.
+
+I am based in Philadelphia and was able to build an MVP from my phone while traveling in Taiwan (check out www.friendlyr.ai to help shape the future of connection!)
 
 Thankfully for us, being on your phone 24/7 is a global cultural norm. Now we can turn our screen time into work time - happy doom coding my friends!
 
