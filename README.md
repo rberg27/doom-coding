@@ -82,11 +82,11 @@ When disconnecting/reconnecting power, make sure you unlock the computer.
 # Best Practices
 - Track your progress: End sessions by asking Claude to update CLAUDE.md with where you left off
 - Preview websites: Go to your desired directory and start an HTTP server<br>
-```
+``
   python -m http.server 3005
-```
+``
   then visit http://your-machine.tailnet-name.ts.net:3005 in a browser on your phone<br>
-  *Wherever you would use localhost:PORT to view an application, replace localhost with the machines MagicDNS from the Tailscale app (e.g. your-machine.tailnet-name.ts.net) *
+  *Wherever you would use localhost:PORT to view an application, replace localhost with the machines MagicDNS from the Tailscale app (e.g. your-machine.tailnet-name.ts.net)*
 - View Databases: Use the PostgreSQL app to troubleshoot databases on the go<br>
 - Bookmark Supporting Sites: On your computer, bookmark the sites you refer to during development (e.g. Google OAuth, GitHub) to make it easier to reference from your phone. I use the Chrome app to seamlessly access the sites I need. 
   https://apps.apple.com/us/app/postgresql-client/id1233662353
