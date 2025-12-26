@@ -33,8 +33,8 @@ Use Tailscale, Termius, Claude Code, and laptop to continue building anywhere yo
   * Hostname: Your MagicDNS address (my-computer.tailnet-name.ts.net)
   * Port: 22
   * Username/Password: Your login for your computer <br>
-  <img width="400" height="245" alt="image" src="https://github.com/user-attachments/assets/5e0f0ea1-c59c-47d9-b85d-d51b4396c93d" /> <br>
-  <img width="400" height="245" alt="image" src="https://github.com/user-attachments/assets/0f796605-57f2-4264-abf0-20369efdf895" />
+  <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/5e0f0ea1-c59c-47d9-b85d-d51b4396c93d" /> <br>
+  <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/0f796605-57f2-4264-abf0-20369efdf895" />
 
 
 
