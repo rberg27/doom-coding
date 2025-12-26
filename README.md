@@ -88,9 +88,9 @@ Go to your desired directory and start an HTTP server<br>
 ``
   python -m http.server 3005
 ``
-then visit http://your-machine.tailnet-name.ts.net:3005/your-html-file.html in a browser on your phone<br>
+then visit http://your-machine.tailnet-name.ts.net:3005/your-html-file.html in a browser on your phone.<br>
 
-*Wherever you would use localhost:PORT to view an application, replace localhost with the computer's MagicDNS from the Tailscale app (e.g. your-computer.tailnet-name.ts.net)*
+*Wherever you would use localhost:PORT to view an app on your computer, replace localhost with the computer's MagicDNS from the Tailscale app (e.g. your-computer.tailnet-name.ts.net)*
 
 ### View databases:
 Use the PostgreSQL app to view databases for your projects https://apps.apple.com/us/app/postgresql-client/id1233662353
