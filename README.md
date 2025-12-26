@@ -46,7 +46,8 @@ Use Tailscale, Termius, Claude Code, and laptop to continue building anywhere yo
 - Install Termius (A Mobile Terminal Tool) <br>
   https://apps.apple.com/us/app/termius-modern-ssh-client/id549039908
 - Note your MagicDNS address of your computer (e.g., my-computer.tailnet-name.ts.net)<br>
-  <img width="400" height="365" alt="image" src="https://github.com/user-attachments/assets/39e3d25a-167b-466d-8113-a9d3c6abe450" />
+  <img width="400" height="359" alt="image" src="https://github.com/user-attachments/assets/6da3907d-ca08-48c8-9f18-54c8d644b21e" />
+
 - Create a new host in Termius:<br>
   * Label: What you want your connection to be called
   * Hostname: Your MagicDNS address (my-computer.tailnet-name.ts.net)
