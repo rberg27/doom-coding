@@ -49,7 +49,9 @@ Use Tailscale, Termius, Claude Code, and laptop to continue building anywhere yo
 # Troubleshooting
 - If you're not able to establish a connection from your phone via Termius to your computer:
 ## 1. Reset your Tailscale VPN
+- Check your phone settings to make sure you are connected to the Tailscale VPN. <br>
 <img width="400" height="227" alt="image" src="https://github.com/user-attachments/assets/1b041eff-9001-4e41-8922-c7f3bcb368da" /> <br>
+- Check the Tailscale app to make sure the Tailscale VPN is on. If your phone and doom coding computer does not show a green circle for connected, there is an issue with your Tailscale/Internet connection.
 <img width="400" height="517" alt="image" src="https://github.com/user-attachments/assets/e5da61ab-828d-4f40-920d-840306c284ed" />
 
 
