@@ -1,7 +1,7 @@
 # doom-coding
-A DIY approach to coding on-the-go. 
+A DIY approach to coding on-the-go!
 
-As an aspiring builder, I sought out a way to keep coding on-the-go. Thanks to some Claude-assisted research and troubleshooting, I can now code from my phone anywhere at anytime via "Doom Coding" (think *Doom Scrolling* but more productive).
+As an aspiring builder, I sought out a way to keep coding while not at home. Thanks to some Claude-assisted research and troubleshooting, I can now code from my phone anywhere at anytime via "Doom Coding" (think *Doom Scrolling* but more productive).
 
 After this 5-minute setup guide, you'll be able to "doom code" anywhere you have Internet connection.
 
@@ -19,7 +19,7 @@ Doom coding has helped me make meaningful progress on the projects I care about.
 
 *Check out www.friendlyr.ai to help shape the future of connection!*
 
-Use the "Watch" button for updates to my doom coding method. As I tryout the latest mobile coding tools (e.g. Claude Code on the Web), I'll update this repository with comparisons.
+Make sure to "Watch" this repo for future updates to this doom coding guide. As I tryout the latest mobile coding tools (e.g. Claude Code on the Web), I'll update this repository with comparisons.
 
 Happy doom coding my friends!
 
@@ -64,7 +64,7 @@ https://docs.anthropic.com/en/docs/claude-code/overview
 ## 3. Connect and Code
 - Turn on Tailscale VPN on your phone<br>
   <img width="400" height="245" alt="image" src="https://github.com/user-attachments/assets/03646788-619b-427e-8e47-5bf8219c1c36" />
-- Tap your host in Termius<br>
+- Select your host in Termius<br>
   <img width="400" height="370" alt="image" src="https://github.com/user-attachments/assets/18d5a03e-acf7-4069-93c2-c67d45a25183" />
 - Run `claude` and start coding <br>
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d92df1cd-570b-49b0-96f7-a5ce31644a6f" />
