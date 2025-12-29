@@ -6,7 +6,8 @@ As an aspiring builder, I sought out a way to keep coding while not at home. Tha
 After this 5-minute setup guide, you'll be able to "doom code" anywhere you have Internet connection.
 
 Code in the air!<br>
-![image](https://github.com/user-attachments/assets/05bb6616-9a59-4824-ab15-07a941af6bd8)
+<img width="400" height="316" alt="image" src="https://github.com/user-attachments/assets/f5449004-0a76-44ee-9922-a5cce1423f93](https://github.com/user-attachments/assets/05bb6616-9a59-4824-ab15-07a941af6bd8" /> <br>
+
  <br>
 
 Code on a run! <br>
