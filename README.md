@@ -57,7 +57,7 @@ https://docs.anthropic.com/en/docs/claude-code/overview
   * Hostname: The MagicDNS address (my-computer.tailnet-name.ts.net)
   * Port: 22
   * Username/Password: Your login for your computer <br>
-   <img width="400" height="359" alt="image" src="https://github.com/user-attachments/assets/69e2d4f0-9dad-4362-8b39-304f3ef66e6d" />
+   <img width="400" height="520" alt="image" src="https://github.com/user-attachments/assets/69e2d4f0-9dad-4362-8b39-304f3ef66e6d" />
    <img width="400" height="359" alt="image" src="https://github.com/user-attachments/assets/33105829-7dc2-4be2-934d-56793f01a03d" />
 
 
