@@ -101,4 +101,6 @@ On your computer, bookmark the sites you refer to during development (e.g. Googl
 
 
 # Happy Doom Coding!
-Please contibute your best practices! I am looking forward to seeing all the places you will code!
+Please contibute your best practices! I am looking forward to seeing all the places you will code! 
+
+I'm new to the world of hacking - so please share your ideas, feedback, and questions - you will help me learn! Please connect at rmb1@wharton.upenn.edu or https://www.linkedin.com/in/ryan-bergamini-223606107/
