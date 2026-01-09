@@ -42,6 +42,13 @@ Use Tailscale, Termius, Claude Code, and a computer running 24/7 to continue bui
 - Install Tailscale and sign in<br>
   <img width="400" height="506" alt="image" src="https://github.com/user-attachments/assets/f3d68264-0aa4-47a6-b7c9-2efe18bc3627" /><br>
   https://tailscale.com/download
+- Log into Tailscale on the web<br>
+  https://login.tailscale.com/admin/machines
+- Go to Access Controls to Disable-IPv4 for all devices. I'd be lying if I told you I knew why MagicDNS works and IPv4 doesn't.<br>
+  <img width="400" height="159" alt="image" src="https://github.com/user-attachments/assets/1206f845-d600-409a-bd30-c5065730cdd7" /><br>
+  <img width="400" height="315" alt="image" src="https://github.com/user-attachments/assets/31895f60-6b24-4f96-8a01-e74a3ba14de0" /><bt>
+  <br>*This is what your Access controls settings should look like*<br>
+  <img width="400" height="184" alt="image" src="https://github.com/user-attachments/assets/16863777-5643-4d5b-9c1e-070a87510010" />
 - Install Claude Code on your computer<br>
 https://docs.anthropic.com/en/docs/claude-code/overview
 
@@ -80,6 +87,9 @@ https://docs.anthropic.com/en/docs/claude-code/overview
 ## 2. Make sure your computer is ON and UNLOCKED
 - When disconnecting/reconnecting power, make sure you unlock the computer. I've ran into this issue one too many times.
 - New niche bug: If you're using a closed laptop to doom code, do not connect that laptop to a monitor. I've recently changed my setup from displaying my doom coding laptop 24/7 to connecting the doom code laptop display to a backup HDMI port I can switch too. Despite setting the doom code laptop to never sleep, it would still disconnect from tailscale after 10 minutes. Issue was resolved by disconnecting the doom code laptop from the monitor. Go figure. 
+
+## 3. Check your Access control settings on the web
+- Refer to the screenshots in "1. Set Up Your Computer" above. I reset my doom-coding setup to test out the guide and forgot this critical step. You need to disable IPv4 so that Termius connects via MagicDNS. I don't know why, but that's the beauty of hours of AI-Enabled troubleshooting.
 
 # Best Practices
 ### Track your progress:
